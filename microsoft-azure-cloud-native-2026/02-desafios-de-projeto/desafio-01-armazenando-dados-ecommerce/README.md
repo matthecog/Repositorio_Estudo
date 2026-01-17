@@ -23,8 +23,11 @@ entre informações estruturadas e não estruturadas.
 - Azure SQL Database  
 
 ## 📷 Evidências
-![Storage Account criado](imagens/storage-account.png)
-![Container Blob](imagens/blob-container.png)
+![Resource Group](imagens/resource-group.png)
+![Container Blob](imagens/storage-accont-blob2.png)
+![Tabela Azure SQL](imagens/consulta-tabela-banco.png)
+![Tela Cadastro](imagens/tela-e-coomerce.png)
+![Tela Consulta](imagens/tela-e-coomerce-consulta.png)
 
 ## 🧠 Principais aprendizados
 - Compreensão do funcionamento do Azure Storage Account  
