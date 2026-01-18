@@ -6,8 +6,6 @@ Este documento reúne os principais **erros enfrentados durante o desenvolviment
 
 O objetivo é registrar problemas reais enfrentados no projeto e transformá-los em **aprendizados práticos**, reutilizáveis em desafios e projetos futuros.
 
----
-
 ## ❌ Erros encontrados
 
 ### 1. Configuração incorreta do ambiente local
@@ -27,8 +25,6 @@ Durante a execução do desafio, o ambiente local de desenvolvimento não estava
 - Recriação do ambiente local  
 - Instalação explícita das dependências necessárias  
 
----
-
 ### 2. Variáveis de ambiente não carregadas corretamente
 **Contexto:**  
 Uso de variáveis de ambiente para armazenar credenciais e configurações de acesso aos serviços Azure.
@@ -44,8 +40,6 @@ Uso de variáveis de ambiente para armazenar credenciais e configurações de ac
 **Solução aplicada:**  
 - Padronização do carregamento de variáveis de ambiente  
 - Validação das variáveis antes da execução da aplicação  
-
----
 
 ### 3. Dificuldade inicial na integração com serviços Azure
 **Contexto:**  
@@ -64,16 +58,12 @@ Integração da aplicação com serviços Azure (Storage e banco de dados).
 - Consulta à documentação oficial do Azure  
 - Testes isolados de cada serviço antes da integração final  
 
----
-
 ## ✅ Aprendizados obtidos
 
 - A preparação correta do ambiente é essencial antes de iniciar o desenvolvimento  
 - Variáveis de ambiente devem ser tratadas como parte crítica da aplicação  
 - Testar integrações de forma isolada reduz erros e retrabalho  
 - Documentar erros facilita a evolução em projetos futuros  
-
----
 
 ## 🧠 Boas práticas consolidadas
 
@@ -82,14 +72,10 @@ Integração da aplicação com serviços Azure (Storage e banco de dados).
 - Testar conexão com serviços Azure de forma incremental  
 - Registrar erros e soluções durante o desenvolvimento  
 
----
-
 ## 🔗 Relação com o repositório
 - Desafio de projeto: `02-desafios-de-projeto/desafio-01-armazenando-dados-ecommerce`
 - Ambientes: `04-ambientes/ambiente-01-backend-ecommerce`
 - Cursos relacionados: `01-cursos/01-introducao-a-experiencia-microsoft-azure-cloud-native-2026`
-
----
 
 ## 📈 Observação final
 Os erros enfrentados neste desafio foram fundamentais para consolidar o entendimento prático sobre integração de aplicações com serviços Azure, preparando o terreno para desafios mais complexos no bootcamp.
