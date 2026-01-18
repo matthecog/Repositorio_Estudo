@@ -29,11 +29,13 @@ de manutenção.
 - Azure SQL Database
 
 ## 📷 Evidências
-![Resource Group](imagens/resource-group.png)
-![Container Blob](imagens/storage-accont-blob2.png)
-![Tabela Azure SQL](imagens/consulta-tabela-banco.png)
-![Tela Cadastro](imagens/tela-e-coomerce.png)
-![Tela Consulta](imagens/tela-e-coomerce-consulta.png)
+
+<p align="center">
+    <img src="imagens/storage-account-blob2.png" width="700">
+    <img src="imagens/consulta-tabela-banco.png" width="700">
+    <img src="imagens/tela-e-coomerce.png" width="700">
+    <img src="imagens/tela-e-coomerce-consulta.png" width="700">
+</p>
 
 ## 🧠 Principais aprendizados
 - Conceitos e funcionamento do Azure Storage Account
