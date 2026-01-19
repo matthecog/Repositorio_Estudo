@@ -43,7 +43,7 @@ ambientes reais, boas práticas e aprendizado contínuo.
 
 ## 📈 Status do Bootcamp
 
-🚧 Em andamento
+🔄 Em andamento
 
 ---
 
