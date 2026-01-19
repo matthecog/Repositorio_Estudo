@@ -7,8 +7,6 @@ Os desafios têm como objetivo aplicar, na prática, os conceitos
 aprendidos nos cursos, simulando cenários reais de uso em Cloud
 Computing e Microsoft Azure.
 
----
-
 ## 🎯 Objetivo dos Desafios
 
 - Consolidar o aprendizado teórico por meio da prática
@@ -16,21 +14,21 @@ Computing e Microsoft Azure.
 - Desenvolver raciocínio técnico e tomada de decisão
 - Documentar soluções e aprendizados adquiridos
 
----
-
 ## 📁 Organização
 
 Cada desafio possui uma pasta dedicada contendo:
 
-- README com a descrição do desafio
-- Arquitetura ou solução adotada
-- Serviços Azure utilizados
-- Evidências (prints do ambiente)
-- Principais aprendizados
-
----
+- `README.md` com:
+  - Status do desafio
+  - Descrição do problema
+  - Solução adotada
+  - Principais aprendizados
 
 ## 📌 Observação
 
 Os desafios são documentados conforme sua conclusão,
 refletindo a evolução prática ao longo do bootcamp.
+
+## 🔗 Referências Relacionadas
+
+Referencias para 

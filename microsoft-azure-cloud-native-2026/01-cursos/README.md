@@ -16,7 +16,7 @@ Cada pasta representa um curso individual e contém um README com:
 
 - Objetivo do curso
 - Principais conceitos abordados
-- Serviços Azure explorados
+- Serviços Azure explorados (opcional)
 - Observações e aprendizados pessoais
 
 ---

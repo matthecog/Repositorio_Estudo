@@ -31,10 +31,10 @@ de manutenção.
 ## 📷 Evidências
 
 <p align="center">
-    <img src="imagens/storage-account-blob2.png" width="700">
-    <img src="imagens/consulta-tabela-banco.png" width="700">
-    <img src="imagens/tela-e-coomerce.png" width="700">
-    <img src="imagens/tela-e-coomerce-consulta.png" width="700">
+    <img src="/workspaces/Repositorio_DIO/microsoft-azure-cloud-native-2026/04-laboratorios/lab01-armazenando-dados-ecommerce/imagens/storage-account-blob2.png" width="700">  
+    <img src="/workspaces/Repositorio_DIO/microsoft-azure-cloud-native-2026/04-laboratorios/lab01-armazenando-dados-ecommerce/imagens/consulta-tabela-banco.png" width="700">
+    <img src="/workspaces/Repositorio_DIO/microsoft-azure-cloud-native-2026/04-laboratorios/lab01-armazenando-dados-ecommerce/imagens/tela-e-coomerce.png" width="700">
+    <img src="/workspaces/Repositorio_DIO/microsoft-azure-cloud-native-2026/04-laboratorios/lab01-armazenando-dados-ecommerce/imagens/tela-e-coomerce-consulta.png" width="700">
 </p>
 
 ## 🧠 Principais aprendizados
