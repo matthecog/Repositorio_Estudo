@@ -8,8 +8,6 @@ dos desafios e organização deste repositório como portfólio profissional.
 O roadmap é evolutivo e pode ser ajustado conforme novos conteúdos forem
 concluídos.
 
----
-
 ## 🧭 Fase 1 — Fundamentos da Plataforma Azure (✅ Concluída)
 
 ### Cursos
@@ -20,14 +18,12 @@ concluídos.
 - ✅ Armazenando Dados de um E-Commerce na Cloud  
 
 ### Entregas no repositório
-- Documentação do curso (`01-cursos`)
-- Desafio de projeto documentado (`02-desafios-de-projeto`)
-- Registro de erros e aprendizados (`05-erros-e-aprendizados`)
-- Documentação de ambientes (`04-ambientes`)
+- Documentação [Cursos](/microsoft-azure-cloud-native-2026/01-cursos/)
+- Documentação [Desafios de Projeto](/microsoft-azure-cloud-native-2026/02-desafios-de-projeto/)
+- Documentação [Erros e Aprendizados](/microsoft-azure-cloud-native-2026/05-erros-e-aprendizados/)
+- Documentação [Laboratório](/microsoft-azure-cloud-native-2026/04-laboratorios/)
 
 📌 **Status:** ✅ Concluída
-
----
 
 ## 🧭 Fase 2 — Contêineres e Orquestração na Azure (🔄 Em andamento)
 
@@ -48,7 +44,6 @@ concluídos.
 
 📌 **Status:** 🔄 Em andamento
 
----
 
 ## 🧭 Fase 3 — Desenvolvimento e Hospedagem com Container Apps (⏳ Planejada)
 
@@ -69,7 +64,6 @@ concluídos.
 
 📌 **Status:** ⏳ Planejada
 
----
 
 ## 🧭 Fase 4 — Gerenciamento e Segurança de APIs (⏳ Planejada)
 
@@ -89,7 +83,6 @@ concluídos.
 
 📌 **Status:** ⏳ Planejada
 
----
 
 ## 🧭 Fase 5 — Computação Serverless e Automação (⏳ Planejada)
 
@@ -106,7 +99,6 @@ concluídos.
 
 📌 **Status:** ⏳ Planejada
 
----
 
 ## 🧭 Fase 6 — Inteligência Artificial no Desenvolvimento (⏳ Planejada)
 
@@ -123,7 +115,6 @@ concluídos.
 
 📌 **Status:** ⏳ Planejada
 
----
 
 ## 🧭 Fase 7 — Construção de Aplicação Cloud-Native Completa (⏳ Planejada)
 
@@ -138,14 +129,12 @@ concluídos.
 
 📌 **Status:** ⏳ Planejada
 
----
 
 ## 🔄 Manutenção Contínua
 - Atualizações no `CHANGELOG.md`
 - Expansão da pasta `05-erros-e-aprendizados`
 - Melhoria contínua da documentação
 
----
 
 ## 📈 Observação Final
 Este roadmap representa a evolução técnica, prática e profissional
