@@ -8,7 +8,6 @@ ao longo do programa.
 O objetivo principal é registrar a evolução técnica e servir
 como material de estudo e portfólio profissional.
 
----
 
 ## 🎯 Objetivo do Bootcamp
 
@@ -16,8 +15,6 @@ O bootcamp tem como foco a formação em **Cloud Native no Microsoft Azure**,
 abordando conceitos fundamentais, arquitetura de aplicações,
 serviços gerenciados, persistência de dados e boas práticas
 para ambientes em nuvem.
-
----
 
 ## 🧱 Estrutura do Repositório
 
@@ -43,16 +40,12 @@ O repositório está organizado da seguinte forma:
   Registro de erros, dificuldades encontradas e lições aprendidas
   durante o bootcamp.
 
----
-
 ## 🧭 Como Navegar
 
 Cada pasta possui um **README.md próprio**, detalhando o conteúdo
 daquele módulo.  
 Os desafios e ambientes possuem também pastas de **imagens**
 com evidências visuais do que foi implementado.
-
----
 
 ## 📌 Observação
 

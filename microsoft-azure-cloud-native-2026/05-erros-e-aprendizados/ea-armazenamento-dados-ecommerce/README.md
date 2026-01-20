@@ -1,7 +1,9 @@
 # Erros e Aprendizados  
+
 ## Desafio 01 — Armazenando Dados de um E-commerce na Nuvem
 
 ## 📌 Contexto
+
 Este documento reúne os principais **erros enfrentados durante o desenvolvimento do Desafio 01 — Armazenando Dados de um E-commerce na Nuvem**, bem como os **aprendizados obtidos ao longo da implementação da solução no Azure**.
 
 O objetivo é registrar problemas reais enfrentados no projeto e transformá-los em **aprendizados práticos**, reutilizáveis em desafios e projetos futuros.
@@ -9,6 +11,7 @@ O objetivo é registrar problemas reais enfrentados no projeto e transformá-los
 ## ❌ Erros encontrados
 
 ### 1. Configuração incorreta do ambiente local
+
 **Contexto:**  
 Durante a execução do desafio, o ambiente local de desenvolvimento não estava corretamente preparado.
 
@@ -26,6 +29,7 @@ Durante a execução do desafio, o ambiente local de desenvolvimento não estava
 - Instalação explícita das dependências necessárias  
 
 ### 2. Variáveis de ambiente não carregadas corretamente
+
 **Contexto:**  
 Uso de variáveis de ambiente para armazenar credenciais e configurações de acesso aos serviços Azure.
 
@@ -42,6 +46,7 @@ Uso de variáveis de ambiente para armazenar credenciais e configurações de ac
 - Validação das variáveis antes da execução da aplicação  
 
 ### 3. Dificuldade inicial na integração com serviços Azure
+
 **Contexto:**  
 Integração da aplicação com serviços Azure (Storage e banco de dados).
 
@@ -73,9 +78,11 @@ Integração da aplicação com serviços Azure (Storage e banco de dados).
 - Registrar erros e soluções durante o desenvolvimento  
 
 ## 🔗 Relação com o repositório
+
 - Desafio de projeto: `02-desafios-de-projeto/desafio-01-armazenando-dados-ecommerce`
 - Ambientes: `04-ambientes/ambiente-01-backend-ecommerce`
 - Cursos relacionados: `01-cursos/01-introducao-a-experiencia-microsoft-azure-cloud-native-2026`
 
 ## 📈 Observação final
+
 Os erros enfrentados neste desafio foram fundamentais para consolidar o entendimento prático sobre integração de aplicações com serviços Azure, preparando o terreno para desafios mais complexos no bootcamp.

@@ -23,10 +23,12 @@ Os erros e aprendizados estão organizados **por projeto ou desafio**, facilitan
 ```
 
 ## 🔗 Relação com o restante do repositório
+
 - Desafios de projeto: `02-desafios-de-projeto/`
 - Ambientes utilizados: `04-ambientes/`
 - Cursos realizados: `01-cursos/`
 
 ## 📈 Observação final
+
 Os erros registrados nesta seção fazem parte natural do processo de aprendizado em Cloud e DevOps.  
 Cada falha documentada representa um **passo a mais na construção de soluções mais robustas, seguras e bem arquitetadas**.

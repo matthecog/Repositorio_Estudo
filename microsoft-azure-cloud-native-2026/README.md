@@ -7,8 +7,6 @@ O objetivo é consolidar conhecimentos em **Cloud Computing**,
 **Microsoft Azure** e **arquiteturas Cloud Native**, com foco em
 ambientes reais, boas práticas e aprendizado contínuo.
 
----
-
 ## 🧭 Estrutura do Repositório
 
 - **00-visao-geral**  
@@ -29,8 +27,6 @@ ambientes reais, boas práticas e aprendizado contínuo.
 - **05-erros-e-aprendizados**  
   Registro de erros, dificuldades e aprendizados adquiridos ao longo do bootcamp.
 
----
-
 ## 🎯 Objetivos de Aprendizado
 
 - Compreender fundamentos de Cloud Computing
@@ -39,13 +35,9 @@ ambientes reais, boas práticas e aprendizado contínuo.
 - Documentar ambientes e decisões técnicas
 - Desenvolver pensamento crítico e resolução de problemas
 
----
-
 ## 📈 Status do Bootcamp
 
 🔄 Em andamento
-
----
 
 ## 🧑‍💻 Sobre mim
 

@@ -8,7 +8,6 @@ Os laboratórios são fundamentais para aplicar os conceitos aprendidos
 nos cursos e desafios de projeto, simulando cenários reais de
 implementação em Cloud Computing.
 
----
 
 ## 🎯 Objetivo da Seção
 
@@ -16,8 +15,6 @@ implementação em Cloud Computing.
 - Facilitar a referência para projetos futuros e estudo contínuo  
 - Documentar boas práticas na criação e organização de recursos  
 - Servir como evidência prática da evolução no bootcamp
-
----
 
 ## 📁 Organização
 
@@ -27,8 +24,6 @@ Cada laboratório possui uma pasta ou arquivo específico, contendo:
 - Serviços Azure utilizados  
 - Configurações relevantes  
 - Prints ou evidências visuais  
-
----
 
 ## 📌 Observação
 

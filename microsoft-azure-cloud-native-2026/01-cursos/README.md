@@ -8,8 +8,6 @@ compreensão dos serviços do Microsoft Azure e dos conceitos de
 arquiteturas Cloud Native, servindo como preparação para os
 desafios de projeto.
 
----
-
 ## 📚 Organização dos Cursos
 
 Cada pasta representa um curso individual e contém um README com:
@@ -19,7 +17,6 @@ Cada pasta representa um curso individual e contém um README com:
 - Serviços Azure explorados (opcional)
 - Observações e aprendizados pessoais
 
----
 
 ## 📌 Observação
 
