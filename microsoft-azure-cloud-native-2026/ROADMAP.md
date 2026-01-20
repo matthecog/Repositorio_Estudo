@@ -28,7 +28,7 @@ concluídos.
 ## 🧭 Fase 2 — Contêineres e Orquestração na Azure (🔄 Em andamento)
 
 ### Cursos
-- ⏳ Orquestração de Contêineres com Azure Kubernetes Service (AKS)  
+- ✅ Orquestração de Contêineres com Azure Kubernetes Service (AKS)  
 - ⏳ Trabalhando com Azure Kubernetes Service (AKS e K8S)  
 - ⏳ Aplicações Web com Azure App Service  
 - ⏳ Desafios de Código: Aperfeiçoe Sua Lógica e Pensamento Computacional  
