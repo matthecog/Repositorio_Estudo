@@ -1,0 +1,151 @@
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Serviços+</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: Arial, sans-serif;
+        }
+
+        body {
+            color: #333;
+            line-height: 1.6;
+        }
+
+        header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 20px;
+            background: #0077b6;
+            color: #fff;
+        }
+
+        header .logo {
+            font-size: 1.5em;
+            font-weight: bold;
+        }
+
+        header nav a {
+            color: #fff;
+            margin-left: 15px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        .hero {
+            text-align: center;
+            padding: 60px 20px;
+            background: #90e0ef;
+        }
+
+        .hero h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+        }
+
+        .hero p {
+            font-size: 1.2em;
+            margin-bottom: 20px;
+        }
+
+        .btn {
+            display: inline-block;
+            padding: 10px 20px;
+            background: #0077b6;
+            color: #fff;
+            text-decoration: none;
+            border-radius: 5px;
+            font-weight: bold;
+        }
+
+        .servicos {
+            padding: 40px 20px;
+            text-align: center;
+        }
+
+        .servicos h2 {
+            margin-bottom: 20px;
+        }
+
+        .cards {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            flex-wrap: wrap;
+        }
+
+        .card {
+            background: #f1f1f1;
+            padding: 20px;
+            border-radius: 8px;
+            width: 250px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+
+        .sobre {
+            padding: 40px 20px;
+            background: #caf0f8;
+            text-align: center;
+        }
+
+        footer {
+            text-align: center;
+            padding: 20px;
+            background: #0077b6;
+            color: #fff;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="logo">Serviços+</div>
+        <nav>
+            <a href="#servicos">Serviços</a>
+            <a href="#sobre">Sobre</a>
+            <a href="#contato">Contato</a>
+        </nav>
+    </header>
+
+    <section class="hero">
+        <h1>Soluções que facilitam sua vida</h1>
+        <p>Prestamos serviços com qualidade e confiança para você e sua empresa.</p>
+        <a href="#contato" class="btn">Solicite um orçamento</a>
+    </section>
+
+    <section id="servicos" class="servicos">
+        <h2>Nossos Serviços</h2>
+        <div class="cards">
+            <div class="card">
+                <h3>Consultoria</h3>
+                <p>Orientação especializada para otimizar seus processos.</p>
+            </div>
+            <div class="card">
+                <h3>Manutenção</h3>
+                <p>Serviços rápidos e eficientes para manter tudo funcionando.</p>
+            </div>
+            <div class="card">
+                <h3>Suporte Técnico</h3>
+                <p>Atendimento ágil para resolver seus problemas.</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="sobre" class="sobre">
+        <h2>Sobre Nós</h2>
+        <p>Somos uma equipe dedicada a oferecer soluções práticas e inovadoras para nossos clientes.</p>
+    </section>
+
+    <footer id="contato">
+        <h2>Entre em Contato</h2>
+        <p>Email: contato@servicosmais.com | Telefone: (11) 99999-9999</p>
+        <p>&copy; 2026 Serviços+. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>

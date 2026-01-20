@@ -1,0 +1,25 @@
+docker build -t cursoia/land:latest .
+
+docker run -d -p 80:80 cursoia/land:latest
+
+az login --tenant 327ab003-89bf-4a2f-8a93-a257d332cf56
+
+az acr login --name acrdevlab002
+
+docker tag cursoia/land:latest acrdevlab002.azurecr.io/cursoia-land:latest
+
+docker push acrdevlab002.azurecr.io/cursoia-land:latest
+
+Criar Deployment.yaml
+Criar Service.yaml
+
+az aks get-credentials --resource-group aks-lab002_group --name aks-lab002
+
+kubectl apply -f deployment.yaml
+kubectl apply -f service.yaml
+
+kubectl get svc curso-ia-service
+
+Caso aconteça erro de permicionamento pode utilizar esse comando para fazer a liberação de acesso:
+
+az aks update --name aks-lab002 --resource-group aks-lab002_group --attach-acr acrdevlab002

@@ -1,0 +1,19 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: curso-ia
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: curso-ia
+  template:
+    metadata:
+      labels:
+        app: curso-ia
+    spec:
+      containers:
+      - name: cursoia
+        image: acrdevlab002.azurecr.io/cursoia-land:latest
+        ports:
+        - containerPort: 80
