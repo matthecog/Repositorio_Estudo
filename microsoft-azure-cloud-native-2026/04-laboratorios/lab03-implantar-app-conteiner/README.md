@@ -16,7 +16,7 @@ Cria um ambiente seguro dos Aplicativos de Contêiner e implantará o aplicativo
 
 ## 🛠️ Serviços Azure Utilizados
 
--  Cloud shell
+- Cloud shell
 - Container App
 - Log Analytics workspace
 
