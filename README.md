@@ -1,6 +1,6 @@
-# Repositorio de cursos realizados na dio.me
+# Repositório de Estudos
 
-Este repositório documenta minha jornada de estudos na pataforma [dio.me](https://www.dio.me/)
+Este repositório documenta minha jornada de estudos, contendo todo o histórico de evolução, evidências de laboratórios realizados, códigos utilizados, entre outros materiais.
 
 ## 🚀 Bootcamp em Destaque
 
