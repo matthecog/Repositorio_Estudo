@@ -2,14 +2,9 @@
 
 Este repositório documenta minha jornada de estudos na pataforma [dio.me](https://www.dio.me/)
 
-## Cursos
-- Microsoft Azure Cloud NAtive 2026
-- Resumo do lab
-
-
 ## 🚀 Bootcamp em Destaque
 
-- ☁️ [Microsoft Azure Cloud Native 2026](./Microsoft%20Azure%20Cloud%20Native%202026)
+- ☁️ [Microsoft Azure Cloud Native 2026](/microsoft-azure-cloud-native-2026/)
 
 - 📂 Acompanhe a evolução dentro da pasta do bootcamp.
 
