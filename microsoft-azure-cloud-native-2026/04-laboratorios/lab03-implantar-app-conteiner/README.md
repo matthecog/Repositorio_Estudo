@@ -1,6 +1,6 @@
 # Implantar um aplicativo de contêiner
 
-Esse lab...
+Este laboratório foi desenvolvido em uma etapa, acompanhando a evolução do conteúdo ao longo das aulas.
 
 ## 📌 Status
 ✅ Concluído
