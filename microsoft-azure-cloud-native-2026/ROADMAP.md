@@ -25,16 +25,16 @@ concluídos.
 
 📌 **Status:** ✅ Concluída
 
-## 🧭 Fase 2 — Contêineres e Orquestração na Azure (🔄 Em andamento)
+## 🧭 Fase 2 — Contêineres e Orquestração na Azure (✅ Concluída)
 
 ### Cursos
 - ✅ Orquestração de Contêineres com Azure Kubernetes Service (AKS)  
-- ⏳ Trabalhando com Azure Kubernetes Service (AKS e K8S)  
-- ⏳ Aplicações Web com Azure App Service  
-- ⏳ Desafios de Código: Aperfeiçoe Sua Lógica e Pensamento Computacional  
+- ✅ Trabalhando com Azure Kubernetes Service (AKS e K8S)  
+- ✅ Aplicações Web com Azure App Service  
+- ✅ Desafios de Código: Aperfeiçoe Sua Lógica e Pensamento Computacional  
 
 ### Desafio de Código
-- ⏳ Desbravando Contêineres com AKS e App Service  
+- ✅ Desbravando Contêineres com AKS e App Service  
 
 ### Entregas previstas
 - Documentação dos cursos
@@ -42,19 +42,19 @@ concluídos.
 - Registro de erros comuns em AKS, App Service e K8S
 - Início estruturado da pasta `03-desafios-de-codigo`
 
-📌 **Status:** 🔄 Em andamento
+📌 **Status:** ✅ Concluída
 
 
-## 🧭 Fase 3 — Desenvolvimento e Hospedagem com Container Apps (⏳ Planejada)
+## 🧭 Fase 3 — Desenvolvimento e Hospedagem com Container Apps (✅ Concluída)
 
 ### Curso
-- ⏳ Aplicações Contêinerizadas com Azure Container Apps  
+- ✅ Aplicações Contêinerizadas com Azure Container Apps  
 
 ### Desafio de Projeto
-- ⏳ Criando um Blog com Container Apps  
+- ✅ Criando um Blog com Container Apps  
 
 ### Desafio de Código
-- ⏳ Publicando e Escalando Apps com Estilo  
+- ✅ Publicando e Escalando Apps com Estilo  
 
 ### Entregas previstas
 - Projeto prático com Container Apps
@@ -62,13 +62,13 @@ concluídos.
 - Comparação entre AKS, App Service e Container Apps
 - Registro de aprendizados e decisões técnicas
 
-📌 **Status:** ⏳ Planejada
+📌 **Status:** ✅ Concluída
 
 
-## 🧭 Fase 4 — Gerenciamento e Segurança de APIs (⏳ Planejada)
+## 🧭 Fase 4 — Gerenciamento e Segurança de APIs (🔄 Em andamento)
 
 ### Curso
-- ⏳ Gerenciamento de APIs com Azure API Management  
+- 🔄 Gerenciamento de APIs com Azure API Management  
 
 ### Desafio de Projeto
 - ⏳ API de Pagamentos Segura com Azure API Management  
