@@ -29,3 +29,4 @@ Cria um ambiente seguro dos Aplicativos de Contêiner e implantará o aplicativo
 <p align="center">
     <img src="imagens/resource-group.png" width="700">
     <img src="imagens/tela-app.png" width="700">
+</p>
