@@ -5,6 +5,7 @@
 ✅ Concluído
 
 ## 🎯 Objetivo
+
 Cria um ambiente seguro dos Aplicativos de Contêiner e implantará o aplicativo de contêiner.
 
 - Prepare o seu ambiente
@@ -25,6 +26,9 @@ Cria um ambiente seguro dos Aplicativos de Contêiner e implantará o aplicativo
 - Criação de Container App via Cloud Shell
 
 ## 📷 Evidências
+
 <p align="center">
     <img src="imagens/resource-group.png" width="700">
-    <img src="imagens/tela-app.png" width="700">
+    <img src="imagens/acr-blog.png" width="700">
+    <img src="imagens/tela-blog.png" width="700">
+</p>
