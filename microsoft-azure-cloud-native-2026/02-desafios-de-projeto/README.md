@@ -18,4 +18,3 @@ Computing e Microsoft Azure.
 
 Os desafios são documentados conforme sua conclusão,
 refletindo a evolução prática ao longo do bootcamp.
-

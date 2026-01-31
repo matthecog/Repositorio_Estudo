@@ -1,2 +1,20 @@
 # Desafios de Códigos
 
+Esta seção reúne os desafios de código do bootcamp
+**Microsoft Azure Cloud Native 2026**.
+
+Os desafios têm como objetivo aplicar, na prática, os conceitos
+aprendidos nos cursos, simulando cenários reais de uso em Cloud
+Computing e Microsoft Azure.
+
+## 🎯 Objetivo dos Desafios
+
+- Consolidar o aprendizado teórico por meio da prática
+- Trabalhar com serviços reais do Azure
+- Desenvolver raciocínio técnico e tomada de decisão
+- Documentar soluções e aprendizados adquiridos
+
+## 📌 Observação
+
+Os desafios são documentados conforme sua conclusão,
+refletindo a evolução prática ao longo do bootcamp.
