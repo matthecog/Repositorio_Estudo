@@ -1,6 +1,7 @@
 # ROADMAP — Microsoft Azure Cloud Native 2026
 
 ## 🎯 Objetivo
+
 Este roadmap documenta a evolução técnica e prática ao longo do bootcamp
 **Microsoft Azure Cloud Native 2026**, servindo como guia de estudo, execução
 dos desafios e organização deste repositório como portfólio profissional.
@@ -24,6 +25,7 @@ concluídos.
 - Documentação [Laboratório](/microsoft-azure-cloud-native-2026/04-laboratorios/)
 
 📌 **Status:** ✅ Concluída
+
 
 ## 🧭 Fase 2 — Contêineres e Orquestração na Azure (✅ Concluída)
 
@@ -99,7 +101,6 @@ concluídos.
 
 📌 **Status:** ⏳ Planejada
 
-
 ## 🧭 Fase 6 — Inteligência Artificial no Desenvolvimento (⏳ Planejada)
 
 ### Curso
@@ -134,7 +135,6 @@ concluídos.
 - Atualizações no `CHANGELOG.md`
 - Expansão da pasta `05-erros-e-aprendizados`
 - Melhoria contínua da documentação
-
 
 ## 📈 Observação Final
 Este roadmap representa a evolução técnica, prática e profissional
