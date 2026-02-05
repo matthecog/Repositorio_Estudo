@@ -1,7 +1,6 @@
 # Criar um Blog com Container Apps
 
 ## 📌 Status
-
 ✅ Concluído
 
 ## 🎯 Descrição do desafio

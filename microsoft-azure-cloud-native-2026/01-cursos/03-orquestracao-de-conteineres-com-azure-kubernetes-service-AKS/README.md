@@ -1,7 +1,6 @@
 # Orquestração de Contêineres com Azure Kubernetes Service (AKS)
 
 ## 📌 Status
-
 ✅ Concluído
 
 ## 🎯 Objetivo
@@ -12,7 +11,6 @@ aplicar conceitos práticos por meio de laboratório.
 ## 🚀 Conteúdos Abordados
 
 Durante esta fase do bootcamp, foram estudados os seguintes conceitos:
-
 
 ## Máquina Virutal x Docker
 
