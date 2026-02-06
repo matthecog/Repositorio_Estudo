@@ -23,6 +23,13 @@ Uma string contendo um dos componentes abaixo:
 
 A tabela abaixo apresenta exemplos com alguns dados de entrada e suas respectivas saídas esperadas. Certifique-se de testar seu programa com esses exemplos e com outros casos possíveis.
 
+| Entrada          | Saída                                                  |
+| ---------------- | ------------------------------------------------------ |
+| Container App    | Aplicação baseada em contêineres gerenciada pela Azure |
+| Revision         | Versão imutável da aplicação implantada                |
+| Scale rule       | Define condições para escalar a aplicação              |
+| Ingress          | Permite acesso externo ao app via HTTP                 |
+
 ## 📷 Evidências
 
 <p align="center">
@@ -46,7 +53,14 @@ Uma string contendo um dos recursos abaixo:
 
 ## 🏗️ Saída
 
-Descrição curta da funcionalidade.
+A tabela abaixo apresenta exemplos com alguns dados de entrada e suas respectivas saídas esperadas. Certifique-se de testar seu programa com esses exemplos e com outros casos possíveis.
+
+| Entrada          | Saída                                            |
+| ---------------- | ------------------------------------------------ |
+| Runtime Stack    | Define a linguagem e versão para sua aplicação   |
+| App Settings     | Variáveis de ambiente para a aplicação           |
+| Custom Domain    | Permite vincular domínio personalizado           |
+| Log Stream       | Visualiza logs da aplicação em tempo real        |
 
 ## 📷 Evidências
 
