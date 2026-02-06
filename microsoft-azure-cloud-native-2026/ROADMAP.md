@@ -47,7 +47,7 @@ concluídos.
 📌 **Status:** ✅ Concluída
 
 
-## 🧭 Fase 3 — Desenvolvimento e Hospedagem com Container Apps (✅ Concluída)
+## 🧭 Fase 3 — Desenvolvimento e Hospedagem de Aplicações Web com o Azure ML (✅ Concluída)
 
 ### Curso
 - ✅ Aplicações Contêinerizadas com Azure Container Apps  
@@ -67,39 +67,39 @@ concluídos.
 📌 **Status:** ✅ Concluída
 
 
-## 🧭 Fase 4 — Gerenciamento e Segurança de APIs (🔄 Em andamento)
+## 🧭 Fase 4 — Gerenciamento e Segurança de APIs na Azure (✅ Concluída)
 
 ### Curso
-- 🔄 Gerenciamento de APIs com Azure API Management  
+- ✅ Gerenciamento de APIs com Azure API Management  
 
 ### Desafio de Projeto
-- ⏳ API de Pagamentos Segura com Azure API Management  
+- ✅ API de Pagamentos Segura com Azure API Management  
 
 ### Desafio de Código
-- ⏳ Guardando os Portões da sua API  
+- ✅ Guardando os Portões da sua API  
 
 ### Entregas previstas
 - API documentada e versionada
 - Aplicação de políticas de segurança
 - Registro de erros e boas práticas com API Management
 
-📌 **Status:** ⏳ Planejada
+📌 **Status:** ✅ Concluída
 
 
-## 🧭 Fase 5 — Computação Serverless e Automação (⏳ Planejada)
+## 🧭 Fase 5 — Computação Serverless e Automação na Azure (🔄 Em andamento)
 
 ### Curso
-- ⏳ Computação Serverless com Azure Functions  
+- 🔄 Computação Serverless com Azure Functions  
 
 ### Desafio de Projeto
-- ⏳ Criando um Serviço Autenticador de Boletos  
+- 🔄 Criando um Serviço Autenticador de Boletos  
 
 ### Entregas previstas
 - Implementação de funções serverless
 - Integração com outros serviços Azure
 - Registro de aprendizados sobre automação
 
-📌 **Status:** ⏳ Planejada
+📌 **Status:** 🔄 Planejada
 
 ## 🧭 Fase 6 — Inteligência Artificial no Desenvolvimento (⏳ Planejada)
 
