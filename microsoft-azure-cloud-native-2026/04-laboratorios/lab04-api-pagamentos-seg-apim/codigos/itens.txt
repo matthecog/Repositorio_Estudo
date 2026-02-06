@@ -1,0 +1,11 @@
+client_id
+cliente id aqui
+
+Client-Secret
+cliente secret aqui
+
+Token
+https://login.microsoftonline.com/327ab003-brlabrlarbalrb/oauth2/v2.0/token
+
+OpenID
+https://login.microsoftonline.com/327ab003-89bf-4a2f-brlabrlabral/v2.0/.well-known/openid-configuration
