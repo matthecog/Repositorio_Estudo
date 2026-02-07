@@ -33,9 +33,9 @@ A solução foi estruturada da seguinte forma:
 ## 📷 Evidências
 
 <p align="center">
-    <img src="imagens/resource-group.png" width="700">  
-    <img src="imagens/acr-blog.png" width="700">
-    <img src="imagens/tela-blog.png" width="700">
+    <img src="../../04-laboratorios/lab03-1-criando-um-blog-com-container-app/imagens/resource-group.png" width="700">  
+    <img src="../../04-laboratorios/lab03-1-criando-um-blog-com-container-app/imagens/acr-blog.png" width="700">
+    <img src="../../04-laboratorios/lab03-1-criando-um-blog-com-container-app/imagens/tela-blog.png" width="700">
 </p>
 
 ## 🧠 Principais aprendizados

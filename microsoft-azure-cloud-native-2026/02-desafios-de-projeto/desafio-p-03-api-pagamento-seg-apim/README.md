@@ -19,8 +19,6 @@ e controle.
 O fluxo de autenticação utiliza o **Azure Active Directory (Azure AD)**, com
 emissão de tokens para acesso à API.
 
-
-
 ## 🛠️ Serviços Utilizados
 
 - Azure API Management
@@ -34,9 +32,9 @@ emissão de tokens para acesso à API.
 ## 📷 Evidências
 
 <p align="center">
-    <img src="imagens/resource-group.png" width="700">  
-    <img src="imagens/acr-blog.png" width="700">
-    <img src="imagens/tela-blog.png" width="700">
+    <img src="../../04-laboratorios/lab04-api-pagamentos-seg-apim/imagens/resource-group.png" width="700">  
+    <img src="../../04-laboratorios/lab04-api-pagamentos-seg-apim/imagens/apim-service.png" width="700">
+    <img src="../../04-laboratorios/lab04-api-pagamentos-seg-apim/imagens/tela-web-app.png" width="700">
 </p>
 
 ## 🧠 Principais aprendizados
@@ -48,7 +46,7 @@ emissão de tokens para acesso à API.
 
 ## 🔗 Recursos Complementares
 
-- Pasta do Laboratório: [Laboratório](/microsoft-azure-cloud-native-2026/04-laboratorios/lab03-1-criando-um-blog-com-container-app/)
-- Códigos utilizados: [Códigos](/microsoft-azure-cloud-native-2026/04-laboratorios/lab03-1-criando-um-blog-com-container-app/codigos/)
-- Imagens do ambiente: [Imagens](/microsoft-azure-cloud-native-2026/04-laboratorios/lab03-1-criando-um-blog-com-container-app/imagens/)
+- Pasta do Laboratório: [Laboratório](/microsoft-azure-cloud-native-2026/04-laboratorios/lab04-api-pagamentos-seg-apim/)
+- Códigos utilizados: [Códigos](/microsoft-azure-cloud-native-2026/04-laboratorios/lab04-api-pagamentos-seg-apim/codigos/)
+- Imagens do ambiente: [Imagens](/microsoft-azure-cloud-native-2026/04-laboratorios/lab04-api-pagamentos-seg-apim/imagens/)
 
