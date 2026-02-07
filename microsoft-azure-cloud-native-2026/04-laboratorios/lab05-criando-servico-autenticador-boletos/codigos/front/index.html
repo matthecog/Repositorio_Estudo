@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gerador de Código de Barras</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="card">
+            <h1>Gerador de Código de Barras</h1>
+            
+            <form id="barcodeForm">
+                <div class="form-group">
+                    <label for="dataVencimento">Data de Vencimento</label>
+                    <input 
+                        type="date" 
+                        id="dataVencimento" 
+                        name="dataVencimento" 
+                        required
+                    >
+                </div>
+
+                <div class="form-group">
+                    <label for="valor">Valor (R$)</label>
+                    <input 
+                        type="number" 
+                        id="valor" 
+                        name="valor" 
+                        step="0.01" 
+                        min="0" 
+                        required
+                        placeholder="0.00"
+                    >
+                </div>
+
+                <button type="submit" class="btn-generate">
+                    Gerar Código de Barras
+                </button>
+            </form>
+
+            <div id="loading" class="loading hidden">
+                <div class="spinner"></div>
+                <p>Gerando código de barras...</p>
+            </div>
+
+            <div id="result" class="result hidden">
+                <div class="barcode-container">
+                    <img id="barcodeImage" src="" alt="Código de Barras">
+                </div>
+                <div class="barcode-text-container">
+                    <label>Número do Código:</label>
+                    <input 
+                        type="text" 
+                        id="barcodeText" 
+                        readonly 
+                        class="barcode-text"
+                    >
+                    <div class="button-group">
+                        <button type="button" class="btn-copy" onclick="copyToClipboard()">
+                            Copiar
+                        </button>
+                        <button type="button" class="btn-validate" id="validateBtn" onclick="validateBarcode()" disabled>
+                            Validar
+                        </button>
+                    </div>
+                    <div id="validationMessage" class="validation-message hidden"></div>
+                </div>
+            </div>
+
+            <div id="error" class="error hidden"></div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

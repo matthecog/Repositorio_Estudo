@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="fnGeradorBoletos/fnGeradorBoletos.csproj" />
+  <Project Path="nfValidaBoleto/nfValidaBoleto.csproj" />
+</Solution>
