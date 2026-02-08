@@ -1,0 +1,19 @@
+{
+  "name": "cep-address-api",
+  "version": "1.0.0",
+  "description": "A simple Node.js API to fetch address information from the Via CEP service.",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "axios": "^0.21.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "author": "",
+  "license": "ISC"
+}
