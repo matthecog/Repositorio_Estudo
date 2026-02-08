@@ -1,4 +1,4 @@
-# Desafio de Projeto —  Computação Serverless com Azure Functions
+# Computação Serverless com Azure Functions
 
 ## 📌 Status
 ✅ Concluído

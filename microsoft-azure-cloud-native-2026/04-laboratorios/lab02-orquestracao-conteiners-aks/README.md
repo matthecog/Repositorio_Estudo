@@ -1,4 +1,4 @@
-# Laboratório 02 — Deploy e Escalabilidade de Aplicação com AKS e ACR
+# Deploy e Escalabilidade de Aplicação com AKS e ACR
 
 Este laboratório foi desenvolvido em duas etapas, acompanhando a evolução do conteúdo ao longo das aulas.
 

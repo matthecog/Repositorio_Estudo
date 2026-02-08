@@ -1,4 +1,4 @@
-# Laboratório 01 – Backend do E-Commerce
+# Backend do E-Commerce
 
 ## 📌 Status
 

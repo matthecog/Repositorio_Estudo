@@ -1,4 +1,4 @@
-# Desafio de Projeto — API de Pagamento Segura com Azure API Management
+# API de Pagamento Segura com Azure API Management
 
 ## 📌 Status
 ✅ Concluído
