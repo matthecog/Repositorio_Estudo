@@ -1,4 +1,4 @@
-# Curso — Computação Serverless e Automação na Azure
+# Computação Serverless e Automação na Azure
 
 ## 📌 Status
 ✅ Concluído
