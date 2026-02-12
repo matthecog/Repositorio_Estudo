@@ -4,13 +4,12 @@
 ✅ Concluído
 
 ## 🎯 Objetivo do Projeto
-
 O objetivo deste projeto é criar duas **APIs serverless** para simular um fluxo básico de **geração e validação de boletos**, utilizando **Azure Functions** e aplicando conceitos de computação serverless.
 
 O foco principal está na **estrutura da solução**, separação de responsabilidades e uso de funções fortemente tipadas para garantir maior controle e confiabilidade.
 
-## 🧠 Visão Geral da Solução
 
+## 🧠 Visão Geral da Solução
 A solução foi desenhada de forma simples e incremental, mantendo o contexto para evoluções futuras.
 
 O fluxo funciona da seguinte forma:
@@ -36,7 +35,6 @@ Nesta etapa do projeto, a arquitetura contempla:
 Arquiteturas mais robustas, com troca de mensagens, eventos e múltiplos ciclos de processamento, foram discutidas conceitualmente e ficam planejadas para exercícios futuros.
 
 ## 🛠️ Tecnologias Utilizadas
-
 - Azure Functions
 - .NET (C#)
 - Visual Studio
@@ -53,7 +51,6 @@ Arquiteturas mais robustas, com troca de mensagens, eventos e múltiplos ciclos 
 </p>
 
 ## 🧠 Principais aprendizados
-
 - Entendimento prático do modelo **serverless** e seus benefícios em custos e escalabilidade.
 - Criação de **múltiplas APIs independentes** utilizando Azure Functions.
 - Aplicação do princípio de **separação de responsabilidades** entre geração e validação de boletos.
@@ -63,7 +60,6 @@ Arquiteturas mais robustas, com troca de mensagens, eventos e múltiplos ciclos 
 - Compreensão de como soluções serverless podem servir como base para arquiteturas orientadas a eventos.
 
 ## 🔗 Recursos Complementares
-
 - Pasta do Laboratório: [Laboratório](/microsoft-azure-cloud-native-2026/04-laboratorios/lab05-criando-servico-autenticador-boletos/)
 - Códigos utilizados: [Códigos](/microsoft-azure-cloud-native-2026/04-laboratorios/lab05-criando-servico-autenticador-boletos/codigos/)
 - Imagens do ambiente: [Imagens](../../04-laboratorios/lab05-criando-servico-autenticador-boletos/imagens/)

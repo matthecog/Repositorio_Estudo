@@ -1,8 +1,10 @@
 # Desafio de Projeto — Desenvolvimento com IA usando GitHub Copilot
 
-Este projeto tem como objetivo demonstrar o uso prático de **Inteligência Artificial aplicada ao desenvolvimento de software**, utilizando o GitHub Copilot como ferramenta de apoio na criação de aplicações reais.
+## 📌 Status
+✅ Concluído
 
 ## 🎯 Objetivo do Projeto
+Este projeto tem como objetivo demonstrar o uso prático de **Inteligência Artificial aplicada ao desenvolvimento de software**, utilizando o GitHub Copilot como ferramenta de apoio na criação de aplicações reais.
 
 - Explorar o uso do GitHub Copilot como ferramenta de *pair programming*
 - Criar aplicações simples com apoio de diferentes LLMs
