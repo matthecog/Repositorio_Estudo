@@ -9,7 +9,7 @@ ambientes reais, boas práticas e aprendizado contínuo.
 
 ## 📌 Status do Bootcamp
 
-🔄 Em andamento
+✅ Concluído
 
 ## 🧭 Estrutura do Repositório
 
