@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mathe\\source\\repos\\fnSBRentProcess\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94DD18DC-7F27-26B6-7A36-75FDC793D977}|fnSBRentProcess\\fnSBRentProcess.csproj|c:\\users\\mathe\\source\\repos\\fnsbrentprocess\\fnsbrentprocess\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{94DD18DC-7F27-26B6-7A36-75FDC793D977}|fnSBRentProcess\\fnSBRentProcess.csproj|solutionrelative:fnsbrentprocess\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94DD18DC-7F27-26B6-7A36-75FDC793D977}|fnSBRentProcess\\fnSBRentProcess.csproj|c:\\users\\mathe\\source\\repos\\fnsbrentprocess\\fnsbrentprocess\\rentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94DD18DC-7F27-26B6-7A36-75FDC793D977}|fnSBRentProcess\\fnSBRentProcess.csproj|solutionrelative:fnsbrentprocess\\rentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94DD18DC-7F27-26B6-7A36-75FDC793D977}|fnSBRentProcess\\fnSBRentProcess.csproj|c:\\users\\mathe\\source\\repos\\fnsbrentprocess\\fnsbrentprocess\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94DD18DC-7F27-26B6-7A36-75FDC793D977}|fnSBRentProcess\\fnSBRentProcess.csproj|solutionrelative:fnsbrentprocess\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "local.settings.json",
+              "DocumentMoniker": "C:\\Users\\mathe\\source\\repos\\fnSBRentProcess\\fnSBRentProcess\\local.settings.json",
+              "RelativeDocumentMoniker": "fnSBRentProcess\\local.settings.json",
+              "ToolTip": "C:\\Users\\mathe\\source\\repos\\fnSBRentProcess\\fnSBRentProcess\\local.settings.json",
+              "RelativeToolTip": "fnSBRentProcess\\local.settings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-12T08:31:14.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RentModel.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\source\\repos\\fnSBRentProcess\\fnSBRentProcess\\RentModel.cs",
+              "RelativeDocumentMoniker": "fnSBRentProcess\\RentModel.cs",
+              "ToolTip": "C:\\Users\\mathe\\source\\repos\\fnSBRentProcess\\fnSBRentProcess\\RentModel.cs",
+              "RelativeToolTip": "fnSBRentProcess\\RentModel.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T06:56:03.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Function1.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\source\\repos\\fnSBRentProcess\\fnSBRentProcess\\Function1.cs",
+              "RelativeDocumentMoniker": "fnSBRentProcess\\Function1.cs",
+              "ToolTip": "C:\\Users\\mathe\\source\\repos\\fnSBRentProcess\\fnSBRentProcess\\Function1.cs",
+              "RelativeToolTip": "fnSBRentProcess\\Function1.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAAEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T13:25:21.481Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
