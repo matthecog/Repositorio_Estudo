@@ -86,41 +86,41 @@ concluídos.
 📌 **Status:** ✅ Concluída
 
 
-## 🧭 Fase 5 — Computação Serverless e Automação na Azure (🔄 Em andamento)
+## 🧭 Fase 5 — Computação Serverless e Automação na Azure (✅ Concluída)
 
 ### Curso
-- 🔄 Computação Serverless com Azure Functions  
+- ✅ Computação Serverless com Azure Functions  
 
 ### Desafio de Projeto
-- 🔄 Criando um Serviço Autenticador de Boletos  
+- ✅ Criando um Serviço Autenticador de Boletos  
 
 ### Entregas previstas
 - Implementação de funções serverless
 - Integração com outros serviços Azure
 - Registro de aprendizados sobre automação
 
-📌 **Status:** 🔄 Planejada
+📌 **Status:** ✅ Concluída
 
-## 🧭 Fase 6 — Inteligência Artificial no Desenvolvimento (⏳ Planejada)
+## 🧭 Fase 6 — Inteligência Artificial no Desenvolvimento (✅ Concluída)
 
 ### Curso
-- ⏳ Inteligência Artificial no Desenvolvimento com GitHub Copilot  
+- ✅ Inteligência Artificial no Desenvolvimento com GitHub Copilot  
 
 ### Desafio de Projeto
-- ⏳ Instalação e Configuração do GitHub Copilot com VS Code  
+- ✅ Instalação e Configuração do GitHub Copilot com VS Code  
 
 ### Entregas previstas
 - Documentação do uso do Copilot
 - Exemplos práticos aplicados aos projetos
 - Boas práticas no uso de IA como apoio ao desenvolvimento
 
-📌 **Status:** ⏳ Planejada
+📌 **Status:** ✅ Concluída
 
 
-## 🧭 Fase 7 — Construção de Aplicação Cloud-Native Completa (⏳ Planejada)
+## 🧭 Fase 7 — Construção de Aplicação Cloud-Native Completa (✅ Concluída)
 
 ### Desafio de Projeto Final
-- ⏳ Construção de uma Aplicação de Aluguel de Carros totalmente Cloud-Native  
+- ✅ Construção de uma Aplicação de Aluguel de Carros totalmente Cloud-Native  
 
 ### Entregas previstas
 - Arquitetura completa cloud-native
@@ -128,10 +128,10 @@ concluídos.
 - Documentação final de arquitetura, decisões e aprendizados
 - Consolidação do repositório como portfólio profissional
 
-📌 **Status:** ⏳ Planejada
+📌 **Status:** ✅ Concluída
 
 
-## 🔄 Manutenção Contínua
+## ✅ Manutenção Contínua
 - Atualizações no `CHANGELOG.md`
 - Expansão da pasta `05-erros-e-aprendizados`
 - Melhoria contínua da documentação
