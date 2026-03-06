@@ -1,10 +1,6 @@
-# Microsoft Foundry Agent Workshop 🚀  
+# Build a Pizza Ordering Agent with Microsoft Foundry and MCP 🚀  
 
-**English** | **[Español](readme.es.md)** | **[Português](readme.pt.md)** | **[Français](readme.fr.md)**
-
-![](./docs/public/banner.png)
-
-**[View the published workshop](https://gaic.io/pizza-workshop)**
+![](/public/banner.png)
 
 ## Workshop Overview  
 
@@ -43,8 +39,8 @@ By the end of the workshop, you’ll have built your own **Contoso PizzaBot**, a
 ## What You’ll Need  
 
 - A browser and access to the [Azure Portal](https://portal.azure.com)  
-- An [Azure subscription](docs/get-azure) provided or use your own
-- A [development environment](docs/dev-environment) with Python 3.13+ installed  
+- An [Azure subscription](./get-azure) provided or use your own
+- A [development environment](./dev-environment) with Python 3.10+ installed  
 - Familiarity with Python basics (no deep AI background required!)  
 
 ## Workshop Goal  
